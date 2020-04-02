@@ -84,7 +84,7 @@ results
 
 ```
 2. 回传数据转化成json格式如下：
-```json
+```
 [{'faceId': '54d4cd29-6185-443b-96f8-e52390aebc90',
   'faceRectangle': {'top': 165, 'left': 143, 'width': 65, 'height': 65},
   'faceAttributes': {'gender': 'male',
